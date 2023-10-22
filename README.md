@@ -12,13 +12,13 @@ yarn dev
 pnpm dev
 ```
 
-This project uses technologies
-### Database - Planetscale
-### ORM - Prisma
-### Static Typing - TypeScript
-### Frontend - Next13
-### Design - Shadcn, Tailwind
-### WebRTC - Livekit
-### Auth - Clerkjs
-### Deployment - Railway
-### Uses Socket.IO
+## Technologies
+Database - Planetscale \
+ORM - Prisma \
+Static Typing - TypeScript \
+Frontend - Next13 \
+Design - Shadcn, Tailwind \
+WebRTC - Livekit \
+Auth - Clerkjs \
+Deployment - Railway \
+Uses Socket.IO \
